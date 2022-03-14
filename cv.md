@@ -4,6 +4,7 @@
 * ### Email amora4ka@gmail.com
 * ### Linkedin [Tatiana Verigo](linkedin.com/in/tatiana-verigo-59534985)
 * ### Discord TatianaV#0571
+* ### Codewars  Verigota [URL](https://www.codewars.com/users/Verigota/badges/large)
 
 ## About Me
 Birthday: November 24
